@@ -2,7 +2,7 @@
 The included folders contain progrrams to run Circuit Simulation and Circuit Bipartion
 
 Circuit Simulation:\
-  The code runs a simulation and gives an output based on the circuit selected for simulation. The .isc files are the circuit description and .vec files are the corresponding input vectors.\
+  *The code runs a simulation and gives an output based on the circuit selected for simulation. The .isc files are the circuit description and .vec files are the corresponding input vectors.\
   To run the code, a make file is included which will create and executable titled 'project'.\
   Command line input to run simulation (Linux/Mac): ./project [.isc file] [.vec file] (i.e. ./project ../isc_files/c880.isc ../vec_files/c880.vec)\
   Output will be in a file writen in isc_files\
